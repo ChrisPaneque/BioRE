@@ -9,13 +9,13 @@ All the system procedures were regsitered as python notebooks for It to be easil
  Contains the model trained on CDR Dataset using TFIDF for vectorization.
  # Chemprot_TFIDF_Model
  Contains the model trained on Chemprot Dataset using TFIDF for vectorization.
- # Chemprot_BioBert_Model
- Contains the model trained on Chemprot Dataset using BioBERT for word embedding.
+ # CDR_BioBert_Model
+ Contains the model trained on CDR Dataset using BioBERT for word embedding.
  # Datasets
  Contains all the datasets used in the system development.
  # Predicting
  Contains Python notebooks with examples on performing prediction on new text.
- # Preprocessing
- Contains Python notebooks with all the preprocessing performed to the Datasets.
+ # Preprocessing and Training
+ Contains Python notebooks with all the preprocessing performed to the Datasets and the model training pipeline.
 # The Fine-tuned on GAD Dataset BioBert model can be found at https://huggingface.co/ChrisUPM/BioBERT_Re_trained. It can be consumed using Huggingface's Transformers.
 # A web plattform for performing BioRE is being deployed and will be available soon
