@@ -15,7 +15,7 @@ All the system procedures were regsitered as python notebooks for It to be easil
  Contains all the datasets used in the system development.
  # Predicting
  Contains Python notebooks with examples on performing prediction on new text.
- # Preprocessing and Training
- Contains Python notebooks with all the preprocessing performed to the Datasets and the model training pipeline.
+ # Preprocessing 
+ Contains Python notebooks with all the preprocessing performed to the CDR Dataset.
 # The Fine-tuned on GAD Dataset BioBert model can be found at https://huggingface.co/ChrisUPM/BioBERT_Re_trained. It can be consumed using Huggingface's Transformers.
 # A web plattform for performing BioRE is being deployed and will be available soon
