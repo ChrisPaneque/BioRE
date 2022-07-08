@@ -1,4 +1,4 @@
-# BioRE
+# BioREx
 This repository is part of the development of the following Master Thesis: Relation Extraction between Biomedical Entities from Scientific Texts.
 # Summary
 This work proposes a BioRE model based on the state-of-the-art, BioBert, which was fine-tuned with a dataset specifically adapted for this task. Our model is composed of two classifiers created from representations on biomedical data in to perform intra sentence relation classification between Genes-Diseases, Chemical-Disease and Chemicals-Genes. A web platform capable of extracting relations from biomedical text has been also created based on these classifiers. The BioRE system has been evaluated showing a F1 score of 82.37, 86.74 and 69.1 to classify Genes-Diseases, Chemical-Disease and Chemicals-Genes, respectively.
